@@ -8,7 +8,7 @@ MFDA Unit
 
 
 ## evaluate on MSVD-QA
-download our pre-extracted features and Pretrained model for msvd_qa from [here](https://drive.google.com/file/d/1x-OLEqstZVCJ6WZO6b5_sub1-R_WkGnU/view?usp=sharing) and save them in `data` folder.
+download our pre-extracted features and Pretrained model for msvd_qa from [here](链接：https://pan.baidu.com/s/1jQ5HxITAeY7jiq9yKWcpTg?pwd=ge1c) with password (ge1c) and save them in `data` folder.
    
 
 
