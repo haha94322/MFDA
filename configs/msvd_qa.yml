@@ -1,0 +1,15 @@
+gpu_id: 0
+multi_gpus: False
+num_workers: 4
+seed: 666
+exp_name: 'expMSVD-QA'
+
+test:
+  test_num: 0
+  write_preds: False
+
+dataset:
+  name: 'msvd-qa'
+  question_type: 'none'
+  data_dir: 'I:\code-qa\ICME2025\VCAT+context\data\msvd-qa'
+  save_dir: '/media/lmy/data1/lmy/result/paper_ICME+GS'
